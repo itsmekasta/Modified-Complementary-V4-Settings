@@ -3,4 +3,4 @@ Realistic Lighting, RTX-ish Style, Block Reflections
 
 Make sure to unzip my file and fit it with the exact shader pack name. In your case it might be .zip in the end.
 
-![1](https://imgur.com/Y7YY7Bh)
+![1](https://i.imgur.com/Y7YY7Bh.png)
